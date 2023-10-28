@@ -1,6 +1,6 @@
 # Calendar
 
-Program: A modified Event Management Program to manage two calendars instead of just one
+Program: Event Management Program to manage two calendars
 Purpose: To understand the OO concepts of inheritance and polymorphism and virtual and pure virtual functions in C++.
 
     SOURCE CODE:

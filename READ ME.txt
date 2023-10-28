@@ -1,0 +1,58 @@
+        READ ME
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Assigment 3
+
+Program: A modify Event Management Program to manage two calendars instead of just one
+Author (Base Code) Christine Laurendeau
+
+Revision Author: Amy Penuela
+Student Number: 101074026
+Student Email: amypenuela@cmail.carleton.ca
+Coures Code: COMP 2404A
+
+Purpose: To understand the OO concepts of inheritance and polymorphism and virtual and pure virtual functions in C++.
+
+    SOURCE CODE:
+~~~~~~~~~~~~~~~~~~~~~~
+Calendar.cc
+Event.cc
+Date.cc
+List.cc
+Control.cc
+View.cc
+Time.cc
+SchoolEvent.cc
+WorkEvent.cc
+
+    HEADER FILES:
+~~~~~~~~~~~~~~~~~~~~~~~
+Calendar.h
+Event.h
+Date.h
+List.h
+Control.h
+View.h
+Time.h
+SchoolEvent.h
+WorkEvent.h
+
+    DATA FILES:
+~~~~~~~~~~~~~~~~~~~~~~~~ 
+in.txt
+
+                 COMPILATION:
+--------------------------------------------------------
+
+    LAUNCHING:
+~~~~~~~~~~~~~~~~~~~~~~~~
+1. Find the directory where this assigment is saved.
+2. Open that directory in terminal.
+
+    OPERATING INSTRCTIONS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Enter make in terminal.
+2. Enter ./cal if you want to enter in values manully OR ./cal < in.txt to use the in.txt file.
+3. Priority is measure from 1-10, 1 being the most important.
+4. For making a school or work event type in:
+        "S" for school event
+        "W" for work event  
